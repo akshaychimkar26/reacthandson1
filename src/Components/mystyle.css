@@ -1,0 +1,51 @@
+.App{
+    background-image:linear-gradient(lightseagreen,red,yellow);
+    height:600px;
+}
+
+.heading{
+    text-shadow: 5px 5px 5px blue;
+    text-align: center;
+}
+.flex{
+    display:flex;
+    width:600px;
+    position: absolute;
+    left:400px;
+    top:150px;
+}
+.button1{
+    position: absolute;
+    left:20px;
+    background-color:lightseagreen;
+    height:50px;
+    border-radius: 30px;
+    width:220px;
+}
+.button2{
+    height:50px;
+    position: absolute;
+    right:100px;
+    background-color:lightseagreen;
+    border-radius: 30px;
+}
+.show1{
+    position: absolute;
+    top:250px;
+    left:-130px;
+    border:1px solid black;
+    width:380px;
+    background-color: lightseagreen;
+    border-radius: 30px;
+    text-align: center;
+}
+.show2{
+    position: absolute;
+    top:250px;
+    left:280px;
+    border:1px solid black;
+    width:380px;
+    background-color: violet;
+    border-radius: 30px;
+    text-align: center;
+}
